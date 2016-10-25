@@ -1,0 +1,10 @@
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW5\ExpTree_Mskreen\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW5\ExpTree_Mskreen\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW5\ExpTree_Mskreen\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW5\ExpTree_Mskreen\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW5\ExpTree_Mskreen\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW6\ExpTree_Mskreen\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW6\ExpTree_Mskreen\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW6\ExpTree_Mskreen\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW6\ExpTree_Mskreen\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Mikel\OneDrive\School\CPTS_322\HW6\ExpTree_Mskreen\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
